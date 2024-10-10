@@ -2,7 +2,7 @@
   "expo": {
     "name": "Earplug Test",
     "slug": "earplug-test",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon-prod.png",
     "userInterfaceStyle": "light",
@@ -14,7 +14,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.equinor.attenuation.appstore",
-      "buildNumber": "1.0.0",
+      "buildNumber": "1.1.0",
       "config": {
         "usesNonExemptEncryption": false
       },
